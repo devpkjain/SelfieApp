@@ -1,4 +1,4 @@
-SelfieApp Version 1.0
+SelfieApp Version 1.1
 =========
 
 SelfieApp
